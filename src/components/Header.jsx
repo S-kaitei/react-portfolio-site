@@ -1,5 +1,7 @@
 const Header = () => {
   return (
-    <div>テスト</div> //ここはHTMLではなく、JSX
+    <div className="test-wrapper">
+      テスト
+    </div>
   );
 };
