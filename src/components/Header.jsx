@@ -1,4 +1,4 @@
-const Header = () => {
+export const Header = () => {
     const componentName = () => 'Header';
 
   return (
